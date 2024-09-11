@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: blanchedalmond;
+}
+#header{
+    margin: auto;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 85%;
+}
+#section{
+	margin: auto;
+	background-color: gray;
+	font-family: 'Courier New', Courier, monospace;
+    width: 80%;
+}
+h3{
+	margin-left: 20px;
+}
+.sectiontext{
+	margin-left: 30;
+}
